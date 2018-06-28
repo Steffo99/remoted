@@ -1,0 +1,6 @@
+/*
+!.gitignore
+!/Assets
+/Assets/*.meta
+/Assets/Scenes
+/Assets/*.prefab
